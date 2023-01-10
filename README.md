@@ -64,7 +64,16 @@ E sendo armazenado em um banco de dados MySql pelo DBeaver
 
 # Requisitos
 
-
+* Java
+* Spring Boot DevTools
+* Lombok
+* Spring Web
+* Validation
+* FlyWay Migration
+* MySQL Driver
+* Spring Data JPA
+* DBeaver(MySQL)
+* Insomnia
 
 
 
