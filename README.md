@@ -49,6 +49,22 @@ dados e também para sua atualização.
 
 Podemos observar que além da informação apagada a API retorna a paginação.
 
+# Organização
+
+O sistema recebe muitos JSON's para trabalhar e transportar as informações, tendo como reforço o insomnia.
+
+![9](https://user-images.githubusercontent.com/96485637/211660310-b4826987-1a3f-4db7-953e-7b5763b3f720.png)
+
+
+E sendo armazenado em um banco de dados MySql pelo DBeaver
+
+
+![10](https://user-images.githubusercontent.com/96485637/211660405-3efd3029-4898-402a-9163-a7a926328b69.png)
+
+
+# Requisitos
+
+
 
 
 
